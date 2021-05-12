@@ -23,7 +23,7 @@
     "ng2-pagination": "^2.0.2",
     "nodemailer": "~4.0.1",
     "rxjs": "^5.1.0",
-    "trim": "0.0.1",
+    "trim": "0.0.3",
     "validatorjs": "^3.13.3",
     "zone.js": "^0.8.4"
   },
