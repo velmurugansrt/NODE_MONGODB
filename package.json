@@ -8,7 +8,7 @@
   "private": true,
   "dependencies": {
     "async": "~2.5.0",
-    "body-parser": "~1.17.2",
+    "body-parser": "~1.20.1",
     "core-js": "^2.4.1",
     "cors": "~2.8.4",
     "dateformat": "^2.0.0",
@@ -35,7 +35,7 @@
     "codelyzer": "~3.0.1",
     "jasmine-core": "~2.6.2",
     "jasmine-spec-reporter": "~4.1.0",
-    "karma": "~1.7.0",
+    "karma": "~6.4.1",
     "karma-chrome-launcher": "~2.1.1",
     "karma-cli": "~1.0.1",
     "karma-coverage-istanbul-reporter": "^1.2.1",
